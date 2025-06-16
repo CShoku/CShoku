@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Working at LetterFan Inc.
+Working at LetterFan Inc. in a long-term internship.
 
 Almost all of my contributions are in Letterfan Inc, which is hidden.
 
