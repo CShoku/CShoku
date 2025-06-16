@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Working at LetterFan Inc.
+Almost all of my contributions are in Letterfan Inc, which is hidden.
+852 contributions in the last year (06/16/2025 revised)
+
+Emotunes is project ongoing.
+All of the code in Emotunes are written by generative AI.
