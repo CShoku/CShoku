@@ -1,4 +1,4 @@
-## Hi there 👋
+## commits
 
 <!--
 **CShoku/CShoku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +16,14 @@ Here are some ideas to get you started:
 -->
 
 Working at LetterFan Inc.
+
 Almost all of my contributions are in Letterfan Inc, which is hidden.
+
 852 contributions in the last year (06/16/2025 revised)
 
-Emotunes is project ongoing.
-All of the code in Emotunes are written by generative AI.
+
+## projects
+
+Emotunes is the project ongoing.
+
+All of the code in Emotunes are written by generative AI, not me.
