@@ -15,15 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+# CShoku
 Working at LetterFan Inc. in a long-term internship.
 
-Almost all of my contributions are in Letterfan Inc, which is hidden.
-
-852 contributions in the last year (06/16/2025 revised)
-
-
-## projects
-
-Emotunes is the project ongoing.
-
-All of the code in Emotunes are written by generative AI, not me.
+![](./profile-summary-card-output/github/0-profile-details.svg)
+![](./profile-summary-card-output/github/3-stats.svg)
