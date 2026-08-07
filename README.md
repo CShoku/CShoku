@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 # CShoku
+Fourth-year undergraduate student at Department of Electronics and Information Engineering, School of Engineering,Hokkaido University.
 Working at LetterFan Inc. in a long-term internship.
 
-![](./profile-summary-card-output/github/0-profile-details.svg)
 ![](./profile-summary-card-output/github/3-stats.svg)
